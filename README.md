@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Joaquin 👋
 
-<!--
-**jazho76/jazho76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My professional work revolves around designing clean contracts, plugin-based architectures, and developer-friendly SDKs, while I spend a fair amount of time exploring low-level security and exploitation to better understand how systems really behave.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- By day: building frontend as a platform, architectures, SDKs, plugin systems, and long-lived extensible foundations  
+- By night: low-level security research, exploitation, reverse engineering, memory safety, and execution boundaries, driven by small, focused experiments
+
+## Philosophy
+
+- Architecture is about constraints, not features.
+- Good APIs reduce the need for documentation.
+- If something feels complex, it probably is.
+- Curiosity beats cleverness.
+
+## Interests
+
+- Low-level programming and system behavior
+- Software security and exploitation
+- Architecture at different layers of the stack
+- Stable systems built to age well
+- Exploring the edges where systems start to fall apart
+
+Feel free to look around or reach out if something here resonates.
